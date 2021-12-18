@@ -1,0 +1,12 @@
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\bin\Debug\net5.0\ShopiOrderingApp.Domain.deps.json
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\bin\Debug\net5.0\ShopiOrderingApp.Domain.dll
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\bin\Debug\net5.0\ref\ShopiOrderingApp.Domain.dll
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\bin\Debug\net5.0\ShopiOrderingApp.Domain.pdb
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\obj\Debug\net5.0\ShopiOrderingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\obj\Debug\net5.0\ShopiOrderingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\obj\Debug\net5.0\ShopiOrderingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\obj\Debug\net5.0\ShopiOrderingApp.Domain.AssemblyInfo.cs
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\obj\Debug\net5.0\ShopiOrderingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\obj\Debug\net5.0\ShopiOrderingApp.Domain.dll
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\obj\Debug\net5.0\ref\ShopiOrderingApp.Domain.dll
+C:\Users\tugbas\source\repos\ShopiOrderingApp\ShopiOrderingApp.Domain\obj\Debug\net5.0\ShopiOrderingApp.Domain.pdb
